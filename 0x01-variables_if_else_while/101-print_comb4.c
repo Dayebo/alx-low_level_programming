@@ -3,8 +3,8 @@
 /** main - a function to print all possible different combination of three digits
  *
  * Return: always 0 for success
-
 */
+
 int main(void)
 {
 	int digit1 = 0;
