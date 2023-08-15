@@ -1,14 +1,12 @@
 #include"main.h"
-
 /**
  * jack_baur - Prints every minute of the day of Jack Baur
  * Description: Print the time in minutes for 24 hrs
  *
- * Return: time in minutes
+ * Return: Always 0.
  */
 void jack_bauer(void)
 {
-
 	int H, M;
 
 	for (H = 0; H < 24; H++)
