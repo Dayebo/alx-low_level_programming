@@ -1,9 +1,9 @@
 #include"main.h"
 
 /**
- * print_traingle - Entry point
- * Description: i prints diagonals
- * @size: size of the trangle
+ * print_triangle - Entry point
+ * Description:  prints diagonals
+ * @size: Size of a triangle
  * Return: void
  */
 
