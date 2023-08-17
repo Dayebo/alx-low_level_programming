@@ -1,16 +1,13 @@
 #include"main.h"
-#include<stdio.h>
 
 /**
  * print_traingle - Entry point
  * Description: i prints diagonals
  * @size: size of the trangle
- *
  * Return: void
  */
 
-void print_triangle(int size);
-
+void print_triangle(int size)
 {
 	int row, hashes, spaces;
 
