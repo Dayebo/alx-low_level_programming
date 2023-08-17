@@ -1,4 +1,5 @@
 #include"main.h"
+#include<stdio.h>
 
 /**
  * print_traingle - Entry point
@@ -8,7 +9,8 @@
  * Return: void
  */
 
-void print_triangle(int size)
+void print_triangle(int size);
+
 {
 	int row, hashes, spaces;
 
