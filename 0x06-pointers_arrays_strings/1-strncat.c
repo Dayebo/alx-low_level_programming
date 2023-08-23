@@ -1,4 +1,4 @@
-#include"main.h"
+#include "main.h"
 
 /**
  * strncat - concentrate two strings
@@ -9,7 +9,6 @@
  *
  * Return: dest
  */
-
 char *_strncat(char *dest, char *src, int n)
 {
 	int i;
