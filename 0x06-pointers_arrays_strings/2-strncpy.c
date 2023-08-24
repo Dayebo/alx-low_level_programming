@@ -1,4 +1,5 @@
-#include"main.h"
+#in
+clude"main.h"
 
 /**
  * *_strcpy - copy a string
