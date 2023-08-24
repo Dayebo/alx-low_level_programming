@@ -1,4 +1,4 @@
-#niclude"main.h"
+#nclude"main.h"
 
 /**
  * _strncpy - copy a string
