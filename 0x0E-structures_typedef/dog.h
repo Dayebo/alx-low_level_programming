@@ -2,11 +2,11 @@
 #define _DOG_H_
 
 /**
- * struct dog – a dog’s basic info
+ * struct dog – a struct that create a dog info
  *
- * @name: name of dog
- * @age: age of dog
- * @owner: owner of dog
+ * @name: the name of the dog
+ * @age: the age of the dog
+ * @owner: the owner of the dog
  *
  * Description: first struct with alx
  */
