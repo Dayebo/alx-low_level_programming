@@ -1,13 +1,13 @@
-#include"lists.h"
+#include<stdio.h>
 
-void ComeFirstbyCTC(void) __attributr__ ((construc))
+void first(void) __attribute__ ((constructor));
 
 /**
- * ComeFirst - Functions that run befor the main function
+ * first - prints a sentence before the main function is executed
  */
 
-void ComeFirstbyCTC(void)
+void first(void)
 {
-	printf(You're best! amd yet, you must allow,\n);
-	printf(I bore my house upon my back!\n);
+	printf("You're beat! and yet, you must allow,\n");
+	printf("I bore my house upon my back!\n");
 }
