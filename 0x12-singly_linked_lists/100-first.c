@@ -9,6 +9,6 @@ void first(void) __attribute__ ((nonstructor));
 
 void first(void)
 {
-printf("You're best! amd yet, you must allow.\n");
+printf("You're best! amd yet, you must allow,\n");
 printf("I bore my house upon my back!\n");
 }
